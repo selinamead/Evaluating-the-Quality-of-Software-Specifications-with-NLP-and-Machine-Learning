@@ -16,7 +16,24 @@
 
 ### Code
 
-All code written in Python.
+Classification_and_Evaluation.py
+```
+This is the main python class and implements Classification models
+```
+NLP_features.py
+```
+This class generates Natural Language features such as:
+  - No. of words
+  - Syllables per word
+  - Internal Punctuation
+  - Flesch Index
+  - ...
+```
+Utils.py
+```
+This is a helper class for mapping dataframes
+```
+
 * Details of how to run the program will be provided at a later date
 
 
